@@ -4,7 +4,7 @@ Overview
 This project is a lightweight proof-of-concept built for the LEAP Scholar Product Intern Assignment.
 It demonstrates an engagement concept called “10-Minute Sprint Coach + Confidence Ladder”, designed to improve early-stage user engagement and momentum in IELTS preparation.
 
-The goal of the prototype is not visual polish, but to showcase the core product loop:
+The goal of this prototype is not visual polish, but to showcase the core product loop:
 
 Task → Reflection → Confidence Update → Motivation
 
@@ -40,14 +40,13 @@ The task is designed to be completed in ~10 minutes.
 2. Confidence Ladder
 
 Each skill has a 5-step confidence scale:
-
 Very Low → Low → Okay → Good → Confident
 
 After completing a sprint, the user answers a simple reflection:
 
 “Do you feel more confident than yesterday?”
 
-Based on this, the confidence level for that skill updates.
+Based on this, the confidence level for that skill is updated.
 
 Progress is shown as confidence growth, not just content completion.
 
@@ -110,4 +109,4 @@ Clear engagement mechanics
 
 Simple, testable product hypotheses
 
-Ability to translate product ideas into a working prototype
+The ability to translate product ideas into a working prototype
